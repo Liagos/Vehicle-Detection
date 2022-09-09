@@ -11,4 +11,4 @@ Software dependecies:
 can be found in the ***requirements.txt*** file.
 
 Example:
-Run python Traffic_PyCharm_V2.py and select a camera by typing "***camera_1*** up to ***camera_6***. Hit "q" to exit.
+Run python Traffic_PyCharm_V2.py and select a camera by typing "***camera_1***" up to "***camera_6***". Hit "q" to exit.
