@@ -5,7 +5,7 @@ This repository contains the code for the project "**Vehicle Detection**". The g
 The repository is organised as follows:
 - ***Traffic_PyCharm_V2*** is used to open the camera stream and detect the vehciles.
 - ***args.py*** is used to import the arguments needed for the project
-- ***confing.ini** is the configuration file which contains information about the cameras, folder path, frame rate, folder name, and maximum number of files to be saved in each folder
+- ***confing.ini*** is the configuration file which contains information about the cameras, folder path, frame rate, folder name, and maximum number of files to be saved in each folder
 
 Software dependecies can be found in the ***requirements.txt*** file.
 
