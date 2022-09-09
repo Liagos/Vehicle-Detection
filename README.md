@@ -8,7 +8,7 @@ The repository is organised as follows:
 - ***confing*** is the configuration file which contains configuration of the cameras, folder path, frame rate, folder name, and maximum number of files to be saved in each folder
 
 Software dependecies: 
-can be found in the ***requirements.txt*** file.
+can be found in the ***requirements*** file.
 
 Example:
 Run "python Traffic_PyCharm_V2.py" and select a camera by typing "***camera_1***" up to "***camera_6***". Hit "q" to exit.
