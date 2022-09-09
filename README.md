@@ -7,6 +7,8 @@ The repository is organised as follows:
 - ***args.py*** is used to import the arguments needed for the project
 - ***confing.ini*** is the configuration file which contains information about the cameras, folder path, frame rate, folder name, and maximum number of files to be saved in each folder
 
-Software dependecies can be found in the ***requirements.txt*** file.
+Software dependecies: 
+Can be found in the ***requirements.txt*** file.
 
-# Run python Traffic_PyCharm_V2.py and select a camera by typing "***camera_1*** up to ***camera_6***. Hit "q" to exit.
+Example:
+Run python Traffic_PyCharm_V2.py and select a camera by typing "***camera_1*** up to ***camera_6***. Hit "q" to exit.
