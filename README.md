@@ -11,6 +11,6 @@ To run the code, you will need to install the libraries in the `requirements.txt
 
 To run an example, execute the following command:
 
-`python Traffic_PyCharm_V2.py`[camera_x]
+`python Traffic_PyCharm_V2.py camera_x`
 
-where x is the ID of the camera (from 1 to 6)
+where `x` is the ID of the camera (from 1 to 6)
