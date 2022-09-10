@@ -26,6 +26,6 @@ The available cameras are the following:
 
 The output of the program will look as follows:
 
-![frame](frame.jpg)
+![frame](frame.png)
 
 
