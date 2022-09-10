@@ -13,4 +13,4 @@ To run an example, execute the following command:
 
 `python Traffic_PyCharm_V2.py camera_x`
 
-where `x` is the ID of the camera you want to use (from 1 to 6)
+where `x` is the ID of the camera you want to use (from 1 to 6).
