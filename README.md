@@ -1,6 +1,6 @@
 # Vehicle Detection
 
-This repository contains the code for the project "**Vehicle Detection**". The goal of this project is to detect vehicles on a highway using image processing techniques.
+This repository contains the code for the project "**Vehicle Detection**". The goal of this project is to detect vehicles on a highway from real-time video frames using image processing techniques.
 
 The repository is organised as follows:
 - `Traffic_PyCharm_V2.py` is used to open the camera stream and detect the vehciles.
