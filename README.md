@@ -17,8 +17,7 @@ where `x` is the ID of the camera you want to use (from 1 to 6).
 
 The available cameras are the following:
 
-# N233 brug Rhenen, Kesteren live HD PTZ
-camera_1 = https://www.youtube.com/watch?v=69Q7I4YQVj0
+[camera_1](https://www.youtube.com/watch?v=69Q7I4YQVj0) N233 brug Rhenen, Kesteren live HD PTZ
 
 # 318 Aalten live HD PTZ
 camera_2 = https://www.youtube.com/watch?v=Su5bUPT5_04
