@@ -25,3 +25,7 @@ The available cameras are the following:
 - [Camera 6](https://www.youtube.com/watch?v=Sk0aQxTygxo) (N325b Arnhem HD PTZ)
 
 The output of the program will look as follows:
+
+![frame](frame.jpg)
+
+
