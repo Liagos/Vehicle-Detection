@@ -14,3 +14,23 @@ To run an example, execute the following command:
 `python Traffic_PyCharm_V2.py camera_x`
 
 where `x` is the ID of the camera you want to use (from 1 to 6).
+
+The available cameras are the following:
+
+# N233 brug Rhenen, Kesteren live HD PTZ
+camera_1 = https://www.youtube.com/watch?v=69Q7I4YQVj0
+
+# 318 Aalten live HD PTZ
+camera_2 = https://www.youtube.com/watch?v=Su5bUPT5_04
+
+# N332 Lochem live HD PTZ
+camera_3 = https://www.youtube.com/watch?v=j3yBBXNct9M
+
+# N348a Den Elterweg, Zutphen live HD PTZ
+camera_4 = https://www.youtube.com/watch?v=keIFkcf6B5k
+
+# N302 Aquaduct Harderwijk live ultraHD PTZ
+camera_5 = https://www.youtube.com/watch?v=Sex3fwYwQ0w
+
+# N325b Arnhem HD PTZ
+camera_6 = https://www.youtube.com/watch?v=Sk0aQxTygxo
