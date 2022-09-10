@@ -22,4 +22,4 @@ The available cameras are the following:
 - [Camera 3](https://www.youtube.com/watch?v=j3yBBXNct9M) (N332 Lochem live HD PTZ)
 - [Camera 4](https://www.youtube.com/watch?v=keIFkcf6B5k) (N348a Den Elterweg, Zutphen live HD PTZ)
 - [Camera 5](https://www.youtube.com/watch?v=Sex3fwYwQ0w) (N302 Aquaduct Harderwijk live ultraHD PTZ)
-- [Camera_6](https://www.youtube.com/watch?v=Sk0aQxTygxo) (N325b Arnhem HD PTZ)
+- [Camera 6](https://www.youtube.com/watch?v=Sk0aQxTygxo) (N325b Arnhem HD PTZ)
