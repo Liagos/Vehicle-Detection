@@ -24,4 +24,4 @@ The available cameras are the following:
 - [Camera 5](https://www.youtube.com/watch?v=Sex3fwYwQ0w) (N302 Aquaduct Harderwijk live ultraHD PTZ)
 - [Camera 6](https://www.youtube.com/watch?v=Sk0aQxTygxo) (N325b Arnhem HD PTZ)
 
-The output of the programm will look as follows:
+The output of the program will look as follows:
